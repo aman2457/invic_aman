@@ -11,6 +11,7 @@ function App() {
       <h1> Invictus Assignment
       </h1>
       <p> It will find top N most frequently occurring words in the <a href='https://raw.githubusercontent.com/invictustech/test/main/README.md'> file </a> hosted here</p>
+      <p> Entering the value and press submit</p>
       <form name='userInput' id="userForm">
   <label>
     Enter a Number:
